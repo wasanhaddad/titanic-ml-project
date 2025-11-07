@@ -59,7 +59,8 @@ Validation accuracy achieved:
 ---
 
 ##  Submission
-The final `submission.csv` file was generated using the best model and submitted to Kaggle.
+The final `submission.csv` file was generated using the best model and submitted to Kaggle.  
+The `submission.csv` file containing the predicted survival values for the test dataset is included in this repository.
 
 ---
 
